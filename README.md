@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, there! I'm Alexey
 
-<!--
-**aleksei-og/aleksei-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Data & AI professional. I hold a degree in Applied Mathematics (2024 graduated ) and currently pursuing further education in **Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+**Data Science & ML:**
+- Machine Learning • Deep Learning • Natural Language Processing (NLP)
+- Data Analysis • Statistical Modeling • Predictive Analytics
+
+**Programming & Tools:**
+- Python • SQL • Git • Docker
+- Pandas • NumPy • Scikit-learn • TensorFlow/PyTorch
+- Data Visualization • Jupyter • Linux
+
+## 📫 Let's Connect
+
+- **📧 GMAIL**: [aleksei372-og@gmail.com]
